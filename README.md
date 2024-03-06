@@ -1,4 +1,4 @@
-# Advanced E-commerce Platform
+#  E-commerce using React.js
 
 This is an advanced e-commerce platform developed using React.js and Redux. It facilitates essential functionalities such as adding to wishlist, cart management, and a seamless checkout process. Various APIs are integrated to enhance the platform's functionality.
 
