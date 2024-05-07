@@ -6,6 +6,7 @@ This is an advanced e-commerce platform developed using React.js and Redux. It f
 
 - Adding products to wishlist
 - Cart management (adding, updating, removing items)
+- Increment or decrement product counts and calculate the total amounts
 - Checkout process
 - Integration with various APIs for enhanced functionality
 
